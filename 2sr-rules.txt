@@ -1,0 +1,4 @@
+2SR: The Super-Simple Role Playing Game
+
+Rules version 0.0.0
+
