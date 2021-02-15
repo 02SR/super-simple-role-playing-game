@@ -1,5 +1,4 @@
-# 2SR: The Super s
-Simple Role Playing Game
+# 2SR: The Super Simple Role Playing Game
 
 ## A super-simple RPG that you can play while walking or on an airplane.
 
