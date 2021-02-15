@@ -16,5 +16,18 @@ method. It is similar in intent to
 character sheet can fit on the back
 of a business card or a paper napkin,
 yet rich enough that it can support 
-complex game play mechanics.
+complex game play mechanics. It is 
+also similar in intent to [GURPS](https://amzn.to/3u4j5En)
+in that it is a universal RPG system 
+that can be adapted to any sort of 
+milieu. 
+
+However where GURPS achieves 
+universality through describing 
+numerous special cases, 2SR takes
+the opposite approach and defines
+almost nothing, leaving the specifics 
+of world mechanics up to the 
+Game Master (GM) and
+the players. 
 
